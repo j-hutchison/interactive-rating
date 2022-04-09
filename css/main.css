@@ -1,0 +1,55 @@
+/******************
+ELEMENT TAGS
+******************/
+html {
+	font-size: 62.5%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+
+	font-family: "Overpass", sans-serif;
+	font-size: 1.5rem;
+	font-weight: 400;
+}
+
+main {
+}
+h1 {
+}
+.section-feedback {
+}
+.img-icon {
+}
+.grey-text {
+}
+.feedback-form {
+}
+.feedback-list {
+}
+.feedback-option {
+}
+.btn-submit {
+}
+.hidden {
+}
+.section-feedback-submitted {
+}
+.img-center {
+}
+.text-accented {
+}
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
